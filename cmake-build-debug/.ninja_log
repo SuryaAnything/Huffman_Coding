@@ -1,0 +1,13 @@
+# ninja log v5
+45	926	7247752099960000	CMakeFiles/target.dir/src/main_compression.c.obj	71a4f62ac3b1b4
+7	1025	7247771012950000	build.ninja	4fb101e525ae7400
+13	464	7247752094860000	CMakeFiles/target.dir/link/comparable.c.obj	824aa504ba695c01
+37	600	7247752095620000	CMakeFiles/target.dir/link/binary_tree.c.obj	e551edb0006fa925
+22	554	7247752095590000	CMakeFiles/target.dir/link/bit_stream.c.obj	8dc17b92a56126c2
+59	577	7247752095600000	CMakeFiles/target.dir/link/char_map.c.obj	9a366e683be41e53
+29	530	7247752095360000	CMakeFiles/target.dir/link/build_string.c.obj	a26ccade60b34fae
+17	622	7247752095830000	CMakeFiles/target.dir/link/dynamic_heap.c.obj	ae11c11ee0a56a77
+933	1879	7247752108880000	target.exe	ab3bd288265b2f38
+7	1150	7247771012950000	build.ninja	4fb101e525ae7400
+23	967	7247771029210000	CMakeFiles/target.dir/src/main.c.obj	97bde51d9fbfee50
+1084	6417	7247771083110000	target.exe	118e61ed2ade3b09
